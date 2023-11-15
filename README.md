@@ -1,7 +1,7 @@
 <img src="https://huggingface.co/aigeek0x0/radiantloom-email-assist-7b/resolve/main/Radiantloom_Email_Assist.png" alt="Radiantloom Email Assist" width="800" style="margin-left:'auto' margin-right:'auto' display:'block'"/>
 
 ## Radiantloom Email Assist 7B
-Radiantloom Email Assist 7B is an email-assistant large language model fine-tuned from [Zephyr-7B-Beta](https://huggingface.co/HuggingFaceH4/zephyr-7b-beta), over a custom-curated dataset of 1,000 email-assistant summarization tasks prepared by AI Geek Labs. The context lenght for the model is 4096 and it is licensed for commercial use.
+[Radiantloom Email Assist 7B](https://huggingface.co/aigeek0x0/radiantloom-email-assist-7b) is an email-assistant large language model fine-tuned from [Zephyr-7B-Beta](https://huggingface.co/HuggingFaceH4/zephyr-7b-beta), over a custom-curated dataset of 1,000 email-assistant summarization tasks prepared by AI Geek Labs. The context lenght for the model is 4096 and it is licensed for commercial use.
 
 ## Intended Uses & Limitations
 radiantloom-email-assist-7b is fine-tuned specifically for summarizing personal and business emails, converting them into voice memos, or chat messages.
